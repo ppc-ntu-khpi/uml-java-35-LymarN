@@ -18,6 +18,5 @@
 
 ## Опис завдання
 Даний проект надає можливість керувати замовленнями в Кафе, надає список страв та працюючого персоналу.
-Діаграма представлена в  оther/Cafe.png.
 <img src="https://github.com/ppc-ntu-khpi/uml-java-35-LymarN/blob/master/caffe.png" width="100%"/>
 
